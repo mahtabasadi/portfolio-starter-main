@@ -7,7 +7,9 @@ import { FaYoutube, FaGithub, FaDribbble } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 // motion
 import { motion } from "framer-motion";
-// varians
+// varians 
+
+
 import { fadeIn } from "../variants";
 
 const Banner = () => {
