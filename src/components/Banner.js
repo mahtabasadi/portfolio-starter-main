@@ -8,9 +8,8 @@ import { TypeAnimation } from "react-type-animation";
 // motion
 import { motion } from "framer-motion";
 // varians 
-
-
 import { fadeIn } from "../variants";
+
 
 const Banner = () => {
   return (
